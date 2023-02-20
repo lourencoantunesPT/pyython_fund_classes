@@ -16,7 +16,7 @@
 
 
 # Executa até CTRL-C por parte do utilizador.
-
+# 2023. teste-
 
 def lucas_infinite_sequence():
     yield 2
